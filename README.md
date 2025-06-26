@@ -1,52 +1,56 @@
 # 👨‍💻 Anthony Anderson | IT Support & Cybersecurity Portfolio
 
-Welcome! I'm Anthony — a former chef turned tech pro, currently thriving as a **Customer Care & Technical Advisor** at Anthology supporting the Blackboard education platform. I’m certified in **Google IT Support**, have **Tier 2 experience** across remote and SaaS environments, and am actively preparing for my **CompTIA Security+** certification.
+Welcome! I'm Anthony — a former chef turned IT Support Professional with hands-on Tier 2 experience across SaaS, remote support, and ticketing environments. I’m certified in **Google IT Support**, actively pursuing **CompTIA Security+**, and passionate about simplifying technology for users.
 
-This portfolio is where I showcase hands-on IT labs, troubleshooting walkthroughs, and cybersecurity fundamentals as I grow into more advanced roles in **Technical Support**, **SysAdmin**, and **InfoSec**.
+This portfolio is where I showcase practical IT labs, troubleshooting exercises, and cybersecurity fundamentals as I grow toward roles in **Technical Support**, **SysAdmin**, and **InfoSec**.
 
 ---
 
 ## 🔧 Core Skills & Tools
 
-- 💻 **IT Support & Troubleshooting**: Hardware | Software | Network | SaaS
-- 🛠️ **Ticketing & Help Desk**: CRXOne, Spiceworks, Intercom, Microsoft 365
-- ⚙️ **SysAdmin Concepts**: Active Directory, DNS, User Account Management
-- 🌐 **Remote Support**: Windows, MacOS, Linux, AWS & cloud-based platforms
-- 🔐 **Cybersecurity Foundations**: Security+ (in progress), Incident Response, Data Integrity
-- 💬 **Customer Care**: Communication, Empathy, First-call Resolution
+* 💻 **IT Support & Troubleshooting**: Hardware | Software | Network | SaaS
+* 🔧 **Ticketing Systems**: CRXOne, Spiceworks, Intercom, Microsoft 365
+* ⚙️ **Systems Knowledge**: Active Directory, DNS, User Account Setup
+* 🌐 **Remote Support**: Windows, MacOS, Linux, AWS-based tools
+* 🔐 **Security Fundamentals**: Security+ (in progress), Risk Mitigation, Least Privilege
+* 🔊 **Communication**: Live call support, conflict resolution, user training
 
 ---
 
-## 📂 Portfolio Structure
+## 📂 Portfolio Highlights
 
-Explore my hands-on projects and documentation:
+* [`IT-Troubleshooting-Labs`](./IT-Troubleshooting-Labs)
+  Real-world help desk tickets, issue resolution, and root cause analysis.
 
-- [`IT-Troubleshooting-Labs`](./IT-Troubleshooting-Labs)  
-  Real-world help desk tickets, solutions, and root cause analysis
+* [`Security-Fundamentals`](./Security-Fundamentals)
+  Practice labs and study notes tied to Security+ domains and concepts.
 
-- [`Security-Fundamentals`](./Security-Fundamentals)  
-  Notes, practice labs, and study guides tied to Security+ topics
+* [`SysAdmin-Practice`](./SysAdmin-Practice)
+  AD user scripts, config walkthroughs, and basic automation exercises.
 
-- [`SysAdmin-Practice`](./SysAdmin-Practice)  
-  User scripts, AD mock setups, and basic automation exercises
-
-- [`Resume-AnthonyAnderson.pdf`](./Resume-AnthonyAnderson.pdf)  
-  Always up to date and ATS-ready
+* [`Resume-AnthonyAnderson.pdf`](./Resume-AnthonyAnderson.pdf)
+  Current resume optimized for Technical Support and Help Desk roles.
 
 ---
 
-## 🚀 Career Goals
+## 📄 Certifications
 
-- 💼 Grow into Security Analyst or SysAdmin roles
-- 🧠 Complete and pass CompTIA Security+ by 2025
-- 🌱 Build a public body of work that demonstrates practical skills
-- 🤝 Collaborate with like-minded learners and professionals in tech
+* 📅 **Google IT Support Professional Certificate** – [Verify on Coursera](https://coursera.org/verify/professional-cert/VSEUHHP8JV61)
+* 🏅 **Digital Credential (Credly)** – [View Badge](https://www.credly.com/earner/earned/badge/721c210d-6ad6-4db1-a20d-8c2c07f2e598)
 
 ---
 
-## 📫 Let’s Connect
+## 🌟 Career Goals
 
-- [LinkedIn](https://www.linkedin.com/in/ant-andersonc137)
-- [Email](mailto:antonioanderzc137@gmail.com)
-📄 [Google IT Support Professional Certificate (Coursera)](https://coursera.org/verify/professional-cert/VSEUHHP8JV61)
-- 🏅 [Digital Credential Badge (via Credly)](https://www.credly.com/earner/earned/badge/721c210d-6ad6-4db1-a20d-8c2c07f2e598)
+* Grow into Security Analyst or System Administrator roles
+* Complete and pass **CompTIA Security+** in 2025
+* Build a public body of work that reflects real-world troubleshooting
+* Collaborate with other learners and IT professionals
+
+---
+
+## 📧 Let’s Connect
+
+* [LinkedIn](https://www.linkedin.com/in/ant-andersonc137)
+* [Email](mailto:antonioanderzc137@gmail.com)
+
