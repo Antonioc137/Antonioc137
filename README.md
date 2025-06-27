@@ -19,11 +19,18 @@ This portfolio is where I showcase practical IT labs, troubleshooting exercises,
 
 ## 📂 Portfolio Highlights
 
+* [`IT-Troubleshooting-Labs`](./IT-Troubleshooting-Labs)
+  Real-world help desk tickets, issue resolution, and root cause analysis.
+
+* [`Security-Fundamentals`](./Security-Fundamentals)
+  Practice labs and study notes tied to Security+ domains and concepts.
+
+* [`SysAdmin-Practice`](./SysAdmin-Practice)
+  AD user scripts, config walkthroughs, and basic automation exercises.
 
 * [`Resume-AnthonyAnderson.pdf`](./Resume-AnthonyAnderson.pdf)
   Current resume optimized for Technical Support and Help Desk roles.
 
-https://github.com/Antonioc137/365loginlooplab
 ---
 
 ## 📄 Certifications
@@ -46,4 +53,3 @@ https://github.com/Antonioc137/365loginlooplab
 
 * [LinkedIn](https://www.linkedin.com/in/ant-andersonc137)
 * [Email](mailto:antonioanderzc137@gmail.com)
-
